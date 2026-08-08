@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jaigupta-create/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jaigupta-create/DSA-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/jaigupta-create/DSA-Problems/tree/master/0057-insert-interval) |
+| [0130-surrounded-regions](https://github.com/jaigupta-create/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/jaigupta-create/DSA-Problems/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/jaigupta-create/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jaigupta-create/DSA-Problems/tree/master/0455-assign-cookies) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaigupta-create/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/jaigupta-create/DSA-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaigupta-create/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/jaigupta-create/DSA-Problems/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaigupta-create/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaigupta-create/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaigupta-create/DSA-Problems/tree/master/0994-rotting-oranges) |
