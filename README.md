@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jaigupta-create/DSA-Problems/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/jaigupta-create/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jaigupta-create/DSA-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jaigupta-create/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/jaigupta-create/DSA-Problems/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaigupta-create/DSA-Problems/tree/master/0207-course-schedule) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/jaigupta-create/DSA-Problems/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/jaigupta-create/DSA-Problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
