@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/jaigupta-create/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jaigupta-create/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaigupta-create/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/1020-number-of-enclaves) |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/jaigupta-create/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jaigupta-create/DSA-Problems/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jaigupta-create/DSA-Problems/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/jaigupta-create/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jaigupta-create/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jaigupta-create/DSA-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jaigupta-create/DSA-Problems/tree/master/0785-is-graph-bipartite) |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jaigupta-create/DSA-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jaigupta-create/DSA-Problems/tree/master/0785-is-graph-bipartite) |
@@ -101,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jaigupta-create/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaigupta-create/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jaigupta-create/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jaigupta-create/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/1020-number-of-enclaves) |
@@ -146,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jaigupta-create/DSA-Problems/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jaigupta-create/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Bidirectional Search
 |  |
