@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaigupta-create/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jaigupta-create/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaigupta-create/DSA-Problems/tree/master/0210-course-schedule-ii) |
+| [0404-sum-of-left-leaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/jaigupta-create/DSA-Problems/tree/master/0743-network-delay-time) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaigupta-create/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jaigupta-create/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaigupta-create/DSA-Problems/tree/master/0210-course-schedule-ii) |
+| [0404-sum-of-left-leaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jaigupta-create/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jaigupta-create/DSA-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/jaigupta-create/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
