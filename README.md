@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jaigupta-create/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jaigupta-create/DSA-Problems/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/jaigupta-create/DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/jaigupta-create/DSA-Problems/tree/master/0733-flood-fill) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jaigupta-create/DSA-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jaigupta-create/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/jaigupta-create/DSA-Problems/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/jaigupta-create/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaigupta-create/DSA-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -257,12 +259,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/jaigupta-create/DSA-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jaigupta-create/DSA-Problems/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/jaigupta-create/DSA-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
